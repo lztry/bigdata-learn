@@ -65,8 +65,8 @@ public class HdfsBaseOperation {
     public static void main(String[] args) throws IOException {
         //print("/tmp/tezsmokeinput/sample-tez-test");
         try {
-            //create("/home/lz/pycharm-2019.2.5/Install-Linux-tar.txt","/data/result/create");
-            fileStatus("/data/result");
+            create("/home/lz/temperature","/test/lz/temperature/");
+            //fileStatus("/data/result");
         } catch (InterruptedException e) {
             e.printStackTrace();
         }

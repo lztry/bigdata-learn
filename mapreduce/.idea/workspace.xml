@@ -1,0 +1,190 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="1e8f8857-b37a-4462-a542-1393b122b45e" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../data/avro/pairs.avro" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../data/badrecords/a" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../data/badrecords/b" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../data/badrecords/c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../data/docs/1400-8.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../data/docs/quangle.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../data/fileglob/2007/12/30/data-2007-12-30" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../data/fileglob/2007/12/30/data[2007-12-30]" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../data/fileglob/2007/12/31/data-2007-12-31" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../data/fileglob/2008/01/01/data-2008-01-01" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../data/fileinput/a" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../data/fileinput/dir/b" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../data/hive/README" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../data/hive/dummy.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../data/hive/joins/sales.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../data/hive/joins/things.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../data/hive/partitions/file1" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../data/hive/partitions/file2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../data/hive/partitions/file3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../data/hive/partitions/file4" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../data/hive/partitions/file5" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../data/hive/partitions/file6" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../data/hive/tables/users.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../data/hive/tables/users_extended.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../data/hive/tmp.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../data/hive/types/complex.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../data/hive/types/nested.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../data/hive/udfs/arrays.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../data/hive/udfs/fruit.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../data/hive/udfs/max1.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../data/hive/udfs/max2.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../data/metoffice/aberporthdata.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../data/metoffice/armaghdata.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../data/metoffice/bradforddata.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../data/metoffice/braemardata.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../data/metoffice/cambridgedata.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../data/metoffice/cardiffdata.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../data/metoffice/durhamdata.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../data/metoffice/eastbournedata.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../data/metoffice/greenwichdata.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../data/metoffice/hurndata.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../data/metoffice/lerwickdata.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../data/metoffice/leucharsdata.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../data/metoffice/newtonriggdata.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../data/metoffice/oxforddata.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../data/metoffice/paisleydata.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../data/metoffice/ringwaydata.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../data/metoffice/rossonwyedata.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../data/metoffice/shawburydata.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../data/metoffice/sheffielddata.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../data/metoffice/southamptondata.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../data/metoffice/stmawgandata.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../data/metoffice/stornowaydata.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../data/metoffice/suttonbonningtondata.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../data/metoffice/tireedata.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../data/metoffice/valleydata.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../data/metoffice/yeoviltondata.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../data/ncdc/all/1901.gz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../data/ncdc/all/1902.gz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../data/ncdc/metadata/ish-history.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../data/ncdc/metadata/stations-fixed-width.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../data/ncdc/micro-tab/sample.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../data/ncdc/micro-tab/sample2.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../data/ncdc/micro-tab/sample_corrupt.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../data/ncdc/micro/sample.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../data/ncdc/sample.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../data/ncdc/sample.txt.gz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../data/pig/combine/A" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../data/pig/combine/B" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../data/pig/corrupt/missing_fields" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../data/pig/foreach/A" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../data/pig/group/A" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../data/pig/join/A" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../data/pig/join/B" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../data/pig/multiquery/A" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../data/pig/nested/A" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../data/pig/nested/B" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../data/pig/pairwise/postings" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../data/pig/schema/A" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../data/pig/sort/A" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../data/pig/tuples/A" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../data/pig/types/A" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../data/pig/types/B" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../data/pig/types/C" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../data/pig/types/one" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../data/pig/udfs/A" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../data/smallfiles/a" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../data/smallfiles/b" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../data/smallfiles/c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../data/smallfiles/d" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../data/smallfiles/e" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../data/smallfiles/f" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../data/wikipedia/example.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../data/wikipedia/sample.xml" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="/usr/local/apache-maven-3.6.3" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1glyouHBucEAdmMDtqsiswP6Anw" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="project.structure.last.edited" value="SDKs" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="MavenSettings" />
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1e8f8857-b37a-4462-a542-1393b122b45e" name="Default Changelist" comment="" />
+      <created>1598703651369</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1598703651369</updated>
+      <workItem from="1598703652502" duration="36000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
